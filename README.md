@@ -1,3 +1,3 @@
 # Sobre
-Repositório utlizado para a seguinte atividade:
-- Atividade Parcial 2.
+Repositório utilizado para a seguinte atividade:
+- Atividade Parcial 2 (Controle de Versão).

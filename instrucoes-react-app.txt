@@ -1,0 +1,1 @@
+Use "npx json-server --watch db.json --port 4000" no terminal para utilizar a API e depois "npm run" para executar a aplicação React.
